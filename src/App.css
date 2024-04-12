@@ -7,12 +7,10 @@
   width: 100%;
   background: #041206;
 }
-/* navbar styling for home */
 .home__container-navbar {
   margin-top: 30px;
 }
 
-/* hero section styling for home */
 .home__container-hero_section {
   display: flex;
   flex-direction: column;
@@ -20,7 +18,6 @@
   justify-content: center;
 }
 .home__container-hero_section > h1 {
-  //styleName: Michroma_Regular_80;
   font-family: "Michroma", sans-serif;
   font-weight: 400;
   margin-top: 10px;
@@ -87,7 +84,6 @@
   display: flex;
 }
 
-/* features section for home page */
 .home__container-features  {
   display: flex;
   width: 90%;
@@ -165,7 +161,6 @@
   height: 19px;
 }
 .home__container-bullet > p {
-  //styleName: Body 01;
   font-family: "Montserrat", sans-serif;
   font-size: 18px;
   font-weight: 400;
@@ -200,7 +195,6 @@
   cursor: pointer;
 } 
 
-/* services section for home page */
 .home__container-services {
   display: flex;
   flex-direction: column;
@@ -262,7 +256,6 @@
   margin-bottom: 30px;
 }
 
-/* home recent project section */
 .home__container-recent {
   display: flex;
   flex-direction: column;
@@ -383,7 +376,6 @@
     height: 150px;
   }
   .home__container-hero_section-quote {
-    /* background: 100%; */
     background-size: cover;
   }
   .home__container-hero_section-quote_botton {

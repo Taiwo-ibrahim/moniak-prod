@@ -40,7 +40,6 @@
   text-align: left;
 }
 .section__container-left > img {
-  /* width: 500px; */
   height: 265px;
 }
 .section__container-right {
@@ -64,7 +63,7 @@
   }
   .section__container-left > h1 {
     font-size: 25px;
-    ine-height: 36px;
+    line-height: 36px;
   }
   .section__container-left > p {
     font-size: 10px;
