@@ -18,8 +18,8 @@ function Footer() {
       <div className='footer__container-section2'>
         <div className='footer__container-section2-top'> 
           <div className='footer__column1'>
-            <h1>Logo</h1>
-    	      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
+            <img src="/logo.png" alt=""/>
+    	      <p>Each project we undertake is more than just construction; it's an opportunity to leave a lasting legacy. Through meticulous attention to detail </p>
           </div>
           <div className='footer__column2'>
             <h1>Company</h1>
